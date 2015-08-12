@@ -68,6 +68,6 @@ puts "Question 4 --------------------\n\n"
 
 puts "Question 5 --------------------\n\n"
 
-def color_valid(color)
-  color == "blue" || color == "green"
-end
+  def color_valid(color)
+    color == "blue" || color == "green"
+  end
